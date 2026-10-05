@@ -115,7 +115,7 @@ Android 15부터는 강제 종료한 앱의 위젯을 시스템이 비활성화�
 ### 환불할 수 있나요?
 환불은 Google Play 환불 정책을 따릅니다. 환불을 요청할 수 있는 기간과 방법은 Google Play 고객센터의 [Google Play 환불 정책 알아보기](https://support.google.com/googleplay/answer/2479637?hl=ko)에서 확인하세요.
 
-Google Play에 요청할 수 있는 기간이 지났다면 rooftopguys.official@gmail.com로 Google Play 주문 번호(GPA로 시작)를 보내 주세요. 개발자는 Google Play 환불 정책과 관련 법령이 정한 범위를 넘는 별도의 환불을 약속하지 않습니다. 관련 법령에 따른 청약철회 권리는 그대로입니다. 대한민국 전자상거래법이 적용되는 소비자는 구매한 날부터 7일 이내에 청약을 철회할 수 있으며, 방법과 환급 절차는 [이용약관](../terms/) 제7조에 있습니다. 환불되면 앱을 더 이용할 수 없습니다.
+Google Play에 요청할 수 있는 기간이 지났다면 rooftopguys.official@gmail.com으로 Google Play 주문 번호(GPA로 시작)를 보내 주세요. 개발자는 Google Play 환불 정책과 관련 법령이 정한 범위를 넘는 별도의 환불을 약속하지 않습니다. 관련 법령에 따른 청약철회 권리는 그대로입니다. 대한민국 전자상거래법이 적용되는 소비자는 구매한 날부터 7일 이내에 청약을 철회할 수 있으며, 방법과 환급 절차는 [이용약관](../terms/) 제7조에 있습니다. 환불되면 앱을 더 이용할 수 없습니다.
 
 ## 9. 언어
 
@@ -132,6 +132,6 @@ Google Play에 요청할 수 있는 기간이 지났다면 rooftopguys.official@
 
 ## 문의
 
-해결되지 않은 문제는 rooftopguys.official@gmail.com로 보내 주세요. 개발자는 앱 안의 이미지를 볼 수 없으므로, 필요하면 화면 설명이나 스크린샷을 함께 보내 주세요.
+해결되지 않은 문제는 rooftopguys.official@gmail.com으로 보내 주세요. 개발자는 앱 안의 이미지를 볼 수 없으므로, 필요하면 화면 설명이나 스크린샷을 함께 보내 주세요.
 
 - 관련 문서: [개인정보처리방침](../privacy/) · [이용약관](../terms/)
