@@ -128,7 +128,7 @@ The developer can see the app's orders in Order management in Google Play Consol
 | Email | rooftopguys.official@gmail.com |
 | Phone | +82-10-6345-4477 |
 
-Business information: RooftopGuys (루프탑가이즈) · Representative: Suhyeon Lee · Business registration no. 405-03-34195 · Mail-order business report no.: report in progress (to be added once issued) · Address: 102-201, 65 Soraesan-gil, Siheung-si, Gyeonggi-do, Republic of Korea
+Business information: RooftopGuys (루프탑가이즈) · Representative: Suhyeon Lee · Business registration no. 405-03-34195 · Mail-order business report no. 2026-경기시흥-2277 · Address: 102-201, 65 Soraesan-gil, Siheung-si, Gyeonggi-do, Republic of Korea
 
 ## 13. Remedies
 
@@ -150,3 +150,4 @@ If you need to report or get advice about a privacy violation, you can contact t
 | Version | Effective date | Changes |
 |---|---|---|
 | 1.0 | 2026-10-05 | First publication |
+| 1.0 | 2026-10-06 | Added the mail-order business report number (no other changes) |

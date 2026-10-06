@@ -20,7 +20,7 @@ These terms set out the rights and obligations of RooftopGuys (루프탑가이�
 | Business name | RooftopGuys (루프탑가이즈) |
 | Representative | Suhyeon Lee |
 | Business registration no. | 405-03-34195 |
-| Mail-order business report no. | Report in progress (to be added once issued) |
+| Mail-order business report no. | 2026-경기시흥-2277 |
 | Address | 102-201, 65 Soraesan-gil, Siheung-si, Gyeonggi-do, Republic of Korea |
 | Email | rooftopguys.official@gmail.com |
 | Phone | +82-10-6345-4477 |
@@ -100,3 +100,4 @@ These terms apply from 2026-10-05.
 | Version | Effective date | Changes |
 |---|---|---|
 | 1.0 | 2026-10-05 | First publication |
+| 1.0 | 2026-10-06 | Added the mail-order business report number (no other changes) |
