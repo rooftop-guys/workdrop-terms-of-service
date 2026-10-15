@@ -5,8 +5,8 @@ lang: en
 permalink: /en/privacy/
 ---
 
-- Version: 1.0
-- Effective date: 2026-10-05
+- Version: 1.1
+- Effective date: 2026-10-15
 - [한국어](../../ko/privacy/) · [日本語](../../ja/privacy/)
 
 RooftopGuys (루프탑가이즈, "the developer") makes and sells the Android app **Workdrop** ("the app"). This policy explains what information the app keeps, where it keeps it and when it is deleted, and what information the developer receives outside the app. The developer complies with the Personal Information Protection Act of the Republic of Korea and other applicable laws.
@@ -52,6 +52,8 @@ To provide its features, the app stores the following **only on your device**. T
 | Camera | To take photos inside the app. Photos are stored only in app-only storage, and the app does not add location information to them | You cannot use the app's camera. Importing by sharing still works |
 | Biometric authentication | To unlock the app with a fingerprint, face or the device screen lock (PIN, pattern or password) when app lock is on. Android handles the authentication; the app never receives or stores fingerprint or face data or your device password | Not used unless you turn on app lock |
 | Run at startup | To set up the deletion schedule again after the device restarts. It runs only while there are items being kept | (Granted at install) |
+
+For a copy installed from Google Play, the app's permission information may also show `com.android.vending.CHECK_LICENSE`, which is not in the table above. The app's own code does not request this permission; Google Play adds it when it distributes the app, to check that the copy is genuine. It is not an internet permission.
 
 The app does not request location, photos and videos (device storage), contacts or microphone permissions.
 
@@ -140,7 +142,7 @@ If you need to report or get advice about a privacy violation, you can contact t
 
 ## 14. Effective date and changes
 
-- This policy applies from 2026-10-05.
+- This policy applies from 2026-10-15.
 - When this policy changes, the new version and effective date are posted on this page. Important changes, such as collecting new kinds of information, are announced on this page and in the app update notes (Google Play release notes) at least 7 days before they take effect. The app has no server, so no notices are sent into the app.
 - If this translation and the Korean original differ in meaning, the Korean original prevails.
 - Related: [Terms of Use](../terms/) · [FAQ](../faq/)
@@ -151,3 +153,4 @@ If you need to report or get advice about a privacy violation, you can contact t
 |---|---|---|
 | 1.0 | 2026-10-05 | First publication |
 | 1.0 | 2026-10-06 | Added the mail-order business report number (no other changes) |
+| 1.1 | 2026-10-15 | Added an explanation of the permission Google Play adds when it distributes the app (CHECK_LICENSE) (section 3) |

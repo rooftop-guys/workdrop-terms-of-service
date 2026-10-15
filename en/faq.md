@@ -5,8 +5,8 @@ lang: en
 permalink: /en/faq/
 ---
 
-- Version: 1.0
-- Effective date: 2026-10-05
+- Version: 1.1
+- Effective date: 2026-10-15
 - [한국어](../../ko/faq/) · [日本語](../../ja/faq/)
 
 ## 1. About Workdrop
@@ -129,6 +129,9 @@ The home screen (launcher) may show the menu in the device language. The languag
 
 ### I denied camera permission. How do I turn it back on?
 Use [Allow camera] or [Open settings] on the notice card above the list. Importing by sharing works even without the permission.
+
+### The permission information shows `CHECK_LICENSE`. What is it?
+It is a permission (`com.android.vending.CHECK_LICENSE`) that Google Play adds when it distributes the app, to check that the copy is genuine. The app's own code does not request it, and it is not an internet permission. The permissions the app requests are listed in section 3 of the [Privacy Policy](../privacy/).
 
 ## Contact
 
